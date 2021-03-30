@@ -1,5 +1,5 @@
 # wheres-waldo
-A Where's Waldo puzzle solver.
+A Where's Waldo puzzle solver made using OpenCV and Python.
 
 ## First Approach:
 Using feature matching on a query image while using a reference image of Waldo
